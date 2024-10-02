@@ -13,3 +13,6 @@ The heuristic function finds the distance, estimating the cost to the goal. The 
 path is reconstructed from the goal back to the start node. If no path is found, the method returns
 null. This ensures an optimal path is found efficiently by prioritizing nodes that appear closer to
 the goal based on the actual and heuristic costs.
+
+
+**repo can be used to test map generator**
